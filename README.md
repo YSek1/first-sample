@@ -7,4 +7,5 @@ DBのテーブルは以下の通り。<p>
 |:-------|:-------|
 |ID|char(8)|
 |NAME|varchar(160)|
-|AGE|Intgeger|
+|AGE|Integer|
+
